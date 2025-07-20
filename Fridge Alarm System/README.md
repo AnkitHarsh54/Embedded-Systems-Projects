@@ -1,7 +1,12 @@
 # 🧊 Fridge Door Alarm Project
 
 This project alerts the user with a buzzer if the fridge door is left open for a certain amount of time. It helps conserve energy and ensures food safety. Two different approaches are demonstrated:
+
+
+
 <img width="500" height="350" alt="Screenshot 2025-07-20 194937" src="https://github.com/user-attachments/assets/4316dd14-8dbb-46d5-bb0e-1f22a7e36726" />
+
+
 
 - **Approach 1:** 555 Timer IC + LDR (Pure hardware)
 - **Approach 2:** ESP32 + LDR + Arduino Code (Smart microcontroller-based)

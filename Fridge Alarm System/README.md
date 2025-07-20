@@ -30,7 +30,7 @@ When the fridge door opens, light hits the LDR and lowers its resistance. This t
 The time delay for the buzzer to start is determined by the monostable 555 timer using:
 
 \[
-T = 1.1 \times R \times C
+T = 1.1*R*C
 \]
 
 Using:
@@ -38,7 +38,7 @@ Using:
 - \( C = 47\mu F \)
 
 \[
-T = 1.1 \times 470000 \times 47 \times 10^{-6} = \textbf{24.3 seconds}
+T = 1.1*470000* 47 x 10^{-6} = \textbf{24.3 seconds}
 \]
 
 ---
@@ -56,7 +56,7 @@ T = 1.1 \times 470000 \times 47 \times 10^{-6} = \textbf{24.3 seconds}
 
 > 📷 _Insert circuit diagram image here_
 <img width="750" height="350" alt="Screenshot 2025-07-20 194937" src="https://github.com/user-attachments/assets/4316dd14-8dbb-46d5-bb0e-1f22a7e36726" />
-![Fridge_Alarm](https://github.com/user-attachments/assets/628aeb09-4675-4f75-a963-27867414ce4d)
+
 
 
 

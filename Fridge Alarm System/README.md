@@ -22,7 +22,8 @@ This project alerts the user with a buzzer if the fridge door is left open for a
 
 ### 📷 Circuit Diagram
 
-<img width="500" height="350" alt="Screenshot 2025-07-20 194937" src="https://github.com/user-attachments/assets/4316dd14-8dbb-46d5-bb0e-1f22a7e36726" />
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/65424e93-61f8-4739-a451-d1b7650ca035" />
+
 
 ### ⚙️ Components
 
@@ -47,7 +48,7 @@ Using:
 - R = 470k Omega 
 -  C = 47 muF 
 
-T = 1.1*470000 *47 x 10^{-6} = \textbf{24.3 seconds}
+T = 1.1*470000 *47 x 10^{-6} = 24.3 seconds
 
 ### ⚡ Working Principle
 

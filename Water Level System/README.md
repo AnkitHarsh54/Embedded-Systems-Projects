@@ -31,7 +31,6 @@ To monitor water levels using 7 metal probes and automatically drain water when 
 - 7-Segment Display (Common Cathode)
 - Transistors (NPN), Resistors (1kΩ, 560kΩ, 100Ω), Capacitors (0.1µF)
 - 9V Battery
-- Voltage Regulator (7805)
 - Breadboard & Jumpers
 - 7 Metal Probes (including GND)
 - Submersible DC Pump
@@ -51,9 +50,6 @@ To monitor water levels using 7 metal probes and automatically drain water when 
 - A relay + transistor combination can trigger the pump when level = 7.
 
 📷 **Circuit Diagram:**
-<img width="731" height="338" alt="Screenshot 2025-07-20 222358" src="https://github.com/user-attachments/assets/4f91b7fb-a8cb-46c9-8cf4-e3e8514d62ef" />
-
-
 ---
 
 ### 2. Smart Method (With Arduino)

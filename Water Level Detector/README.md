@@ -62,7 +62,7 @@ To monitor water levels using 7 metal probes and automatically drain water when 
 📷 **Circuit Diagram:**
 
 
-<img src="Without_Arduino/Circuit_diagram.png" width="500" height="350" alt="Water Level Detector">
+<img src="Without_Arduino/Circuit_Diagram.png" width="500" height="350" alt="Water Level Detector">
 
 ---
 

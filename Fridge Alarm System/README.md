@@ -41,17 +41,13 @@ This project alerts the user with a buzzer if the fridge door is left open for a
 
 **Monostable 555 Timer Formula:**
 
-\[
 T = 1.1*R*C
-\]
 
 Using:
-- \( R = 470k\Omega \)
-- \( C = 47\mu F \)
+- R = 470k Omega 
+-  C = 47 muF 
 
-\[
 T = 1.1*470000 *47 x 10^{-6} = \textbf{24.3 seconds}
-\]
 
 ### ⚡ Working Principle
 
@@ -66,7 +62,7 @@ T = 1.1*470000 *47 x 10^{-6} = \textbf{24.3 seconds}
 - Open fridge → Wait ~24s → Buzzer ON
 - Close fridge → LDR dark again → Buzzer OFF
 
-<img src="Fridge_Alarm.jpg" width="750" height="350" alt="Fridge Alarm Circuit">
+<img src="Fridge_Alarm.jpg" width="500" height="350" alt="Fridge Alarm Circuit">
   
 
 ---

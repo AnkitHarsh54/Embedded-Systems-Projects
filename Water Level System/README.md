@@ -52,7 +52,7 @@ To monitor water levels using 7 metal probes and automatically drain water when 
 📷 **Circuit Diagram:**
 ---
 
-### 2. Smart Method (With Arduino)
+### 2. With Arduino
 
 - Probes act as level indicators connected to Arduino digital pins.
 - Arduino reads which probes are submerged and counts the active ones.
@@ -60,7 +60,9 @@ To monitor water levels using 7 metal probes and automatically drain water when 
 - When water drops below level 5, the pump shuts off.
 
 📷 **Circuit Diagram:**
-)
+
+
+<img src="Circuit_diagram.jpg" width="500" height="350" alt="Water Level Detector">
 
 ---
 
@@ -89,5 +91,4 @@ This project provides both an intelligent and a cost-effective method for managi
 
 ---
 
-## 📁 Suggested Directory Structure
 

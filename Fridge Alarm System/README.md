@@ -4,9 +4,6 @@ This project alerts the user with a buzzer if the fridge door is left open for a
 
 
 
-<img width="500" height="350" alt="Screenshot 2025-07-20 194937" src="https://github.com/user-attachments/assets/4316dd14-8dbb-46d5-bb0e-1f22a7e36726" />
-
-
 
 - **Approach 1:** 555 Timer IC + LDR (Pure hardware)
 - **Approach 2:** ESP32 + LDR + Arduino Code (Smart microcontroller-based)
@@ -25,7 +22,7 @@ This project alerts the user with a buzzer if the fridge door is left open for a
 
 ### 📷 Circuit Diagram
 
-<img src="555_timer_circuit.jpg" width="750" height="350" alt="555 Timer Circuit Diagram">
+<img width="500" height="350" alt="Screenshot 2025-07-20 194937" src="https://github.com/user-attachments/assets/4316dd14-8dbb-46d5-bb0e-1f22a7e36726" />
 
 ### ⚙️ Components
 
@@ -70,10 +67,6 @@ T = 1.1*470000 *47 x 10^{-6} = \textbf{24.3 seconds}
 - Close fridge → LDR dark again → Buzzer OFF
 
 ---
-## 📐 Circuit Diagram
-
-
-<img src="Fridge_Alarm.jpg" width="500" height="350" alt="Fridge Alarm Circuit">
 
 # 🔁 Approach 2: ESP32 + Arduino Code
 

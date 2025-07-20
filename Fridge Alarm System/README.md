@@ -56,6 +56,7 @@ T = 1.1*470000* 47 x 10^{-6} = \textbf{24.3 seconds}
 
 > 📷 _Insert circuit diagram image here_
 <img width="750" height="350" alt="Screenshot 2025-07-20 194937" src="https://github.com/user-attachments/assets/4316dd14-8dbb-46d5-bb0e-1f22a7e36726" />
+Fridge Alarm System/Fridge_Alarm.jpg
 
 
 

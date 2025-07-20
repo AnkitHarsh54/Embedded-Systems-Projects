@@ -22,7 +22,8 @@ This project alerts the user with a buzzer if the fridge door is left open for a
 
 ### 📷 Circuit Diagram
 
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/65424e93-61f8-4739-a451-d1b7650ca035" />
+
+<img width="500" height="350" alt="Screenshot 2025-07-20 194937" src="https://github.com/user-attachments/assets/7128d0a6-9da3-4512-a375-9454c04675ce" />
 
 
 ### ⚙️ Components
@@ -71,6 +72,8 @@ T = 1.1*470000 *47 x 10^{-6} = 24.3 seconds
 # 🔁 Approach 2: ESP32 + Arduino Code
 
 ### 📷 Breadboard Setup
+
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/65424e93-61f8-4739-a451-d1b7650ca035" />
 
 ### ⚙️ Components
 

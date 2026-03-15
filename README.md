@@ -120,17 +120,6 @@ Two implementations were developed:
 
 ---
 
-# Learning Outcomes
-
-These projects demonstrate practical concepts including:
-
-* Sensor interfacing
-* Timer circuits (555 IC)
-* Digital logic IC usage
-* Microcontroller based automation
-* Relay control for real-world devices
-
----
 
 # Conclusion
 
